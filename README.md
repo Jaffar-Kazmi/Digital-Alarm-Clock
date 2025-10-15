@@ -10,7 +10,7 @@ Created as a part of OS Lab Task to demonstrate Git-Collaboration
 Digital-Alarm-Clock/
 ├── index.html             # Home Page - Main application entry point
 │   └── 
-├──
+├──sytle.css               # Styling for header, footer, and background
 ├── 
 ├──
 └── 
@@ -20,3 +20,6 @@ Digital-Alarm-Clock/
 - index.html:
 Header: "Digital Alarm Clock"
 Footer : "Developed collaboratively by Jaffar, Wajahat & Ehtisham”
+
+  -style.css:  
+  defines background color, layout, and styles for header and footer.  
