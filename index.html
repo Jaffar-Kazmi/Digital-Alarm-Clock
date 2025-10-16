@@ -12,18 +12,18 @@
         <h1>🕒 Digital Clock & Alarm</h1>
       </header>
 
-      <div>00:00:00</div>
+      <div class="clock" id="clock">00:00:00</div>
 
-      <div>
+      <div class="alarm-section">
         <h3>Set Alarm</h3>
-        <input type="time" />
-        <button>Set Alarm</button>
-        <button>Clear Alarm</button>
+        <input type="time" id="alarm-time" />
+        <button id="set-alarm-btn">Set Alarm</button>
+        <button id="clear-alarm-btn">Clear Alarm</button>
       </div>
 
-      <p>No Alarm Set</p>
+      <p id="status-msg">No alarm set</p>
     </div>
-    
+
     <footer>
       <p>“Developed collaboratively by Jaffar, Wajahat & Ehtisham”</p>
     </footer>
