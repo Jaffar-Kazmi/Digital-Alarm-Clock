@@ -1,7 +1,7 @@
 # Digital-Alarm-Clock
 
 ## Overview
-This is minimal digital clock and alarm. Click [here](https://jaffar-kazmi.github.io/Digital-Alarm-Clock/) to see a live demo.
+This is minimal digital clock and alarm. Click to see a [Live Demo](https://jaffar-kazmi.github.io/Digital-Alarm-Clock/).
 
 Created as a part of OS Lab Task to demonstrate Git-Collaboration
 
