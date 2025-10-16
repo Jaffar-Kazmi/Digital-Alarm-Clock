@@ -26,3 +26,13 @@ Digital-Alarm-Clock/
 
 - **style.css** 
   - Defines background color, layout, and styles for header and footer.  
+
+- **script.js**
+    -Handles the main functionality of the digital clock and alarm.
+
+    -Continuously updates and displays the current time.
+
+    -Allows users to set and clear an alarm.
+
+    -Triggers an alert when the current time matches the set alarm time.
+
