@@ -1,16 +1,17 @@
 # Digital-Alarm-Clock
 
 ## Overview
-This is minimal digital clock and alarm.
+This is minimal digital clock and alarm. Click [here](https://jaffar-kazmi.github.io/Digital-Alarm-Clock/) to see a live demo.
 
 Created as a part of OS Lab Task to demonstrate Git-Collaboration
+
 
 ## File Structure
 ```
 Digital-Alarm-Clock/
 ├── index.html             # Home Page - Main application entry point
 ├── sytle.css              # Styling for header, footer, and background
-└── 
+└── script.js              # Provides functionality for realtime time and alarm setting
 ```
 
 ## File Explanation
@@ -29,10 +30,7 @@ Digital-Alarm-Clock/
 
 - **script.js**
     -Handles the main functionality of the digital clock and alarm.
-
     -Continuously updates and displays the current time.
-
     -Allows users to set and clear an alarm.
-
     -Triggers an alert when the current time matches the set alarm time.
 
